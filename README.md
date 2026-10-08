@@ -53,9 +53,4 @@ Standard Euler integration introduces artificial energy into oscillatory systems
 * Python 3.8+
 * `vpython` library
 
-### Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/spring-mass-oscillator.git](https://github.com/your-username/spring-mass-oscillator.git)
-   cd spring-mass-oscillator
